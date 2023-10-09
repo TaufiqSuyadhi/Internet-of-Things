@@ -1,4 +1,4 @@
-Link video mengenai definisi dan arsitektur Internet of Things (IoT), [Klik](https://www.youtube.com/watch?v=T3IGWayhRBk)
+Link video mengenai definisi dan arsitektur Internet of Things (IoT), [Klik](https://www.youtube.com/watch?v=T3IGWayhRBk&list=PLy3VBpgdBFy6bu3W2H2NS7Pezp46A8jXw&index=1)
 
 Sumber referensi:
 
